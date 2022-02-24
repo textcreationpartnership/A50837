@@ -1,0 +1,424 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A false faith not justified by care for the poor prov'd in a sermon preach'd at St. Paul's Church, August 28th, 1698 / by Luke Milbourne ...</title>
+            <author>Milbourne, Luke, 1649-1720.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50837</idno>
+            <idno type="STC">Wing M2031</idno>
+            <idno type="STC">ESTC R9394</idno>
+            <idno type="EEBO-CITATION">12996776</idno>
+            <idno type="OCLC">ocm 12996776</idno>
+            <idno type="VID">96413</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50837)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96413)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 391:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A false faith not justified by care for the poor prov'd in a sermon preach'd at St. Paul's Church, August 28th, 1698 / by Luke Milbourne ...</title>
+                  <author>Milbourne, Luke, 1649-1720.</author>
+               </titleStmt>
+               <extent>[6], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.R. for W. Kettelby and B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement on p. [2] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st, XIII, 3 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96413:1"/>
+            <p>
+               <hi>A</hi> FALSE FAITH <hi>not Juſtified by Care for the POOR.</hi>
+            </p>
+            <p>PROV'D in a SERMON PREACH'D at St. <hi>PAUL</hi>'s Church <hi>Auguſt</hi> 28<hi rend="sup">th</hi> 1698.</p>
+            <p>By <hi>L<g ref="char:V">Ʋ</g>KE MILBO<g ref="char:V">Ʋ</g>RNE</hi> a Presbyter of the Church of <hi>ENGLAND.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <bibl>
+                  <hi>Julianus ad Arſacium.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>R. R.</hi> for <hi>W. Kettelby</hi> and <hi>B. Aylmer:</hi> At the <hi>Biſhop's-Head</hi> in St. <hi>Paul</hi>'s Church-Yard; and at the <hi>Three Pigeons</hi> againſt the <hi>Royal-Exchange</hi> in <hi>Cornhill.</hi> MDCXCVIII.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:96413:2"/>
+            <p>Mr. <hi>MILBO<g ref="char:V">Ʋ</g>RNE</hi>'s SERMON AT St. <hi>Paul</hi>'s Church, <hi>Auguſt</hi> 28. 1698.</p>
+         </div>
+         <div type="order">
+            <pb facs="tcp:96413:3"/>
+            <opener>
+               <signed>EDWIN Mayor.</signed>
+               <dateline>
+                  <date>
+                     <hi>Martis</hi> viii. <hi>die Septembris</hi> 1698, <hi>Annoque RRs. Will. tertii Angliae, &amp;c. decimo.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>THis Court doth deſire Mr. <hi>Mil<g ref="char:EOLhyphen"/>bourne</hi> to Print his Sermon Preach<g ref="char:EOLhyphen"/>ed at the Cathedral Church of St. <hi>Paul</hi> on Sunday the 28th. of <hi>Auguſt</hi> laſt, before the Lord Mayor and Alder<g ref="char:EOLhyphen"/>men of this City.</p>
+            <closer>
+               <signed>GOODFELLOW.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:96413:4"/>
+            <pb n="1" facs="tcp:96413:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. XIII. 3.</hi>
+                  </bibl>
+                  <p>And though I beſtow all my goods to feed the Poor, and have not Charity, —it profiteth me nothing.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">A</seg> Cloſe Union in Faith and Practice between the Members of Chriſt, <hi>that there may be no Schiſm in the Body;</hi> but that they may, <hi>by Faith,</hi> hold to their <hi>One Eternal Head,</hi> and, by <hi>Love,</hi> have the <hi>ſame Care one for another,</hi> is the Glory and Security of his Church. Other <hi>Spiritual Gifts</hi> may <hi>Beautify</hi> and <hi>Adorn</hi> it; Theſe (with their Companion <hi>Hope</hi>) give it <hi>Subſtance and Vigor,</hi> make <hi>Faithful Chriſtians</hi> fix their Thoughts above, break through a thouſand difficulties below, and imitate the prodigious Love of their <hi>Maſter</hi> to miſerable Sinners, by a diffuſive tenderneſs for one another. Theſe then are the certain <hi>Teſt</hi> of a <hi>ſound Chriſtian.</hi> A <hi>Man,</hi> ſet off with all the Charms of irreſiſtible Eloquence, may be follow'd and admir'd; the raviſh'd World may hang Eternally on <hi>his</hi> Lips, who ſpeaks with Power and Demonſtration, and who, with clear Senſe and proper Expreſſions, makes the obſcureſt things plain and intel<g ref="char:EOLhyphen"/>ligible; and who would not be his <hi>Captive,</hi> who, by a great number of indiſputable and unaccountable Miracles, commands Submiſſion? But for a <hi>Man</hi> to condeſcend to the <hi>Neceſſities of the Poor;</hi> to look upon himſelf as ſent into the World to relieve the Indigent; to be the
+<pb n="2" facs="tcp:96413:5"/>
+               <hi>Father and Guardian</hi> of thoſe who are generally de<g ref="char:EOLhyphen"/>ſpis'd by a careleſs and uncompaſſionate World, and to be ſo fond of ſuppos'd <hi>Truth,</hi> as <hi>to ſeal it with his Blood;</hi> Theſe are ſuch Demonſtrations of a ſincere Goodneſs, as might, one would think, ſtop the Mouths of captious Inquirers, and make the Eloquent Preacher and the Worker of Miracles paſs for a compleat <hi>Saint.</hi> The concurrence of ſuch Qualifications muſt needs glitter wonderfully before the Common World, and prejudice them very far in favour of their glaring Luſtre; yet <hi>theſe</hi> may poſſibly meet, where <hi>true juſtifying Faith</hi> and <hi>unfailing Hope</hi> are wanting, and the moſt extenſive <hi>Bounty</hi> may be without <hi>Charity.</hi> Where it's ſo, how<g ref="char:EOLhyphen"/>ever fooliſh Men may applaud them, their <hi>Eloquence</hi> makes them no better than <hi>ſounding Braſs, or tinkling Cymbals.</hi> Their <hi>Knowledge and Miracles</hi> make them juſt <hi>nothing,</hi> and their <hi>Zeal and Liberality</hi> can <hi>profit them nothing. Theſe three alide</hi> indeed, <hi>Faith, Hope, and Charity; but the greateſt of theſe is Charity.</hi> Love or <hi>Charity</hi> is the certain Evidence, the natural Conſe<g ref="char:EOLhyphen"/>quence, the inſeparable Companion, and the Crown<g ref="char:EOLhyphen"/>ing Perfection of the other <hi>Two.</hi> There's no ſuch <hi>Love,</hi> as the Text requires, but where there's ſound <hi>Faith</hi> and vigorous <hi>Hope;</hi> and there's no ſuch <hi>Hope,</hi> or ſuch <hi>Faith,</hi> but it will always <hi>work by Love.</hi> This <hi>Charity</hi> therefore and <hi>Almsgiving,</hi> or <hi>Care for the Poor,</hi> are very different things; they are excellent Compa<g ref="char:EOLhyphen"/>nions indeed, but they may be parted, and where they are ſo, <hi>though I beſlow all my Goods to feed,</hi> or to provide all Neceſſaries for <hi>the Poor,</hi> (for <hi>Feeding,</hi> in the Text, imports that <hi>general Care</hi>) <hi>it profiteth me nothing.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:96413:5"/>
+The <hi>Aſſertion</hi> ſhews, that among the <hi>Corinthians</hi> there were ſome in the <hi>Apoſtles</hi> times, who had wonderfully high thoughts of <hi>Mercy to the Poor,</hi> and believ'd, with that<note n="*" place="margin">Tobit. 4.10. Hujuſmo<g ref="char:EOLhyphen"/>di Axio<g ref="char:EOLhyphen"/>mata ab Haereticis frequen<g ref="char:EOLhyphen"/>tiſſimé produ<g ref="char:EOLhyphen"/>cuntur. Hinc A<g ref="char:EOLhyphen"/>pelles, au<g ref="char:EOLhyphen"/>thore Rho<g ref="char:EOLhyphen"/>done Ta<g ref="char:EOLhyphen"/>tiani Diſ<g ref="char:EOLhyphen"/>cipulo a<g ref="char:EOLhyphen"/>pud Euſe<g ref="char:EOLhyphen"/>bium.</note> 
+               <hi>Apocryphal Writer,</hi> That <hi>Alms deliver from Death, and ſuffer not to come into darkneſs,</hi> without any <hi>Addi<g ref="char:EOLhyphen"/>tion</hi> whatſoever. As if <hi>Beneficence,</hi> or conferring out<g ref="char:EOLhyphen"/>ward good on thoſe in want, and providing for their Bodily neceſſities <hi>only,</hi> were enough to procure <hi>Eternal Salvation,</hi> without either a <hi>right Faith,</hi> or a <hi>juſt Hope,</hi> or <hi>true Chriſtian Love or Charity.</hi> St. <hi>Paul</hi> corrects this Error; puts himſelf in the place of ſuch a bountiful Man (for none can be more Bountiful than he who gives his All to the Poor) and lets them know, that, tho he ſhould do this, yet <hi>if he had not</hi> Divine <hi>Charity,</hi> (which could not be without <hi>Faith and Hope,</hi> ſince they <hi>ſubſiſt or abide together</hi>) it would all ſtand him in no ſtead, <hi>it would profit him nothing.</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Hiſt. Eccleſ. l. 5. c. 13.</note>
+            </p>
+            <p>This <hi>Love or Charity</hi> mention'd here, as <hi>the Perfe<g ref="char:EOLhyphen"/>ction of all other Excellencies,</hi> is of a vaſt and undefinable extent; on which reaſon the <hi>Apoſtle,</hi> who recommends it every where, gives no particular <hi>Definition</hi> of it any where, but endeavours to imprint a right Notion of it in our minds by recounting its ſeveral <hi>Negative</hi> and <hi>Po<g ref="char:EOLhyphen"/>ſitive</hi> Qualifications, all which juſtifie that difference be<g ref="char:EOLhyphen"/>tween <hi>it</hi> and <hi>Almſgiving,</hi> or care for the Poor, which we commonly, but improperly call <hi>Charity.</hi> For,</p>
+            <p>This <hi>Charity ſuffers long:</hi>—The Chriſtian endued with exerciſes the utmoſt <hi>Patience</hi> under the greateſt <hi>Inju<g ref="char:EOLhyphen"/>ries.</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> He reflects on God's dealing with himſelf, and with a wicked World; and therefore breaks not out into a
+<pb n="4" facs="tcp:96413:6"/>
+               <hi>Rage</hi> againſt him who wrongs him; much leſs will he meditate <hi>Revenge;</hi> he leaves that to God; and as his <hi>Heavenly Father</hi> is gracious <hi>both to the Good and Bad,</hi> his Servants and his Enemies, ſo this <hi>Man of Love</hi> will be kind to <hi>All,</hi> particularly to <hi>thoſe</hi> who have <hi>us'd him worſt.</hi> But the <hi>Man</hi> who gives <hi>Alms</hi> in abundance may be waſpiſh, malicious, revengeful, barbarous.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>Charity,</hi> or true Chriſtian Love <hi>envieth not:</hi>—The true Chriſtian ſees his Enemy thrive with Joy: He's pleas'd with every <hi>good Action</hi> which proceeds from him, and with every <hi>Reward</hi> which he receives. He looks on the Learning, Virtue, Piety of all Men with ſatisfaction; and when <hi>they</hi> grow Great, Powerful, Rich <hi>by ſuch means,</hi> or have a mighty Intereſt among good Men, he's pleas'd to ſee his <hi>Father's Honour</hi> promoted; and can quietly let <hi>others</hi> get a greater Reputation, even in thoſe things in which himſelf is moſt ambitious to excell. The <hi>Man of Alms</hi> may grudge every thing that ſlips his own hands, and in the Care for the Poor, fool<g ref="char:EOLhyphen"/>iſhly ſtrive to engroſs the ſole Management, and the entire Reputation.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> This Love or <hi>Charity vaunteth not it ſelf—is not puft up</hi>—He who is bleſs'd with this <hi>Grace</hi> is not loud when he gives his Alms, nor ſtunns every Company with the noiſe of his Induſtry and Beneficence. The deepeſt wa<g ref="char:EOLhyphen"/>ters ſlide with the greateſt ſilence, and <hi>the moſt merciful Men love to be kind in ſecret;</hi> They would not have <hi>their left hands know what their right hands give.</hi> It's a Reward which <hi>God</hi> only beſtows which they ſeek, and there's no need of proclaiming it in the Ears of Men: But he then, who is <hi>God</hi>'s choſen <hi>Inſtrument</hi> to be a <hi>com<g ref="char:EOLhyphen"/>mon Benefactor,</hi> will be the Humbleſt Man in the World. Some who have been <hi>Careful for the Poor</hi> have been very defective in <hi>this Grace,</hi> and have loved as well to be taken notice of for it, as to do it.</p>
+            <p>
+               <pb n="5" facs="tcp:96413:6"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> This <hi>Charity doth not behave it ſelf unſeemly, ſeek<g ref="char:EOLhyphen"/>eth not her own, is not eaſily provok'd, thinketh no Evil.</hi> —<hi>i. e.</hi> The Man of true Goodneſs or Charity, ſhews no Impudence either in his Language, or his Carriage; He'll vindicate <hi>himſelf,</hi> but he'll aſperſe <hi>none,</hi> raiſe no Scandals, ſpread no <hi>falſe News,</hi> or Lyes, be modeſt among his Superiors, and affront none, much leſs <hi>his Maker.</hi> He ſtudies the <hi>Publick Good</hi> chiefly; and, that as it is <hi>Publick,</hi> and not meerly as ſuiting to his own Genius or Inclination. He'll be ſo far from Spite or Inveteracy, that, to the utmoſt of his power, he'll conquer the ſudden. Eruptions of his Paſſions; and nei<g ref="char:EOLhyphen"/>ther the <hi>Miſmanagement,</hi> or ſuppos'd <hi>Ingratitude</hi> of <hi>others,</hi> ſhall force <hi>Him</hi> beyond the Bounds of Reaſon. He has no jealous thoughts of others, as if they in<g ref="char:EOLhyphen"/>tended ill, when they did not; He means no ſuch thing himſelf, and meaſures the Innocence of others by his own: A <hi>Man</hi> may be very <hi>kind to the Poor,</hi> and yet, be rude and ill-manner'd; ſtudy his own Humour only, be mad for Trifles, and jealous of every Body, <hi>without a Contradiction.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/>
+               <hi>Charity rejoyces not in iniquity, but rejoyces in the Truth.</hi> The ſincere Chriſtian takes no pleaſure to ſee Inno<g ref="char:EOLhyphen"/>cence condemn'd, or Merit unrewarded. He's not pleas'd when <hi>Falſhood</hi> finds Favour, though his own Intereſts may be advanced by it; nor can he love <hi>Confuſion,</hi> though troubled Waters might be beſt for himſelf to Fiſh in. He laughs not to ſee good Men diſappointed of their juſt Hopes; but when <hi>Truth,</hi> and <hi>Honeſty,</hi> and <hi>real Worth</hi> is advanced, he's glad for the <hi>Publick,</hi> though his <hi>own Honour</hi> ſhould be clouded by it: But it's poſſible a <hi>large Almsgiver</hi> may be very defective in theſe reſpects.</p>
+            <p>
+               <pb n="6" facs="tcp:96413:7"/>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> True <hi>Charity beareth all things, believeth all things, hopeth all things, endureth all things.</hi> — The Man of Charity is the great Pillar on whom all Publick Aſſairs may ſafely reſt; He adds <hi>Strength</hi> to a <hi>Cauſe</hi> and <hi>Effi<g ref="char:EOLhyphen"/>cacy,</hi> to a good <hi>Deſign.</hi> He'll never <hi>divulge</hi> his Neigh<g ref="char:EOLhyphen"/>bour's Crimes, much leſs <hi>Calumniate</hi> him; but if he can, with the veil of Love and Pity, he'll cover the Multitude of <hi>his</hi> Errors. He's ready to believe every thing that's good of him; and to ſuppoſe his <hi>Truth</hi> and <hi>Integrity,</hi> where it's not plainly obnoxious, in his <hi>general Converſation.</hi> He'll live in hopes to ſee the Man, who is Vicious and Extravagant at preſent, mend; and he'll add his Counſel, and his Prayers, to his fa<g ref="char:EOLhyphen"/>vourable Expectations. He knows <hi>great Sinners</hi> have found Mercy by <hi>Repentance;</hi> and why ſhould he con<g ref="char:EOLhyphen"/>clude that Man <hi>deſperate,</hi> to whom <hi>God</hi> ſtill aſſords the <hi>means of Grace?</hi> For <hi>Himſelf,</hi> he fears no Calumny, he ſtarts at no Danger, but is ready to be a <hi>Confeſſor</hi> or <hi>Martyr,</hi> rather than to renounce that <hi>Sweetneſs of Tem<g ref="char:EOLhyphen"/>per</hi> which <hi>Chriſtianity</hi> introduces; or that <hi>Doctrine of Faith</hi> which his <hi>Maſter</hi> hath bequeath'd to him. He's not a <hi>Bigot</hi> for Errors, nor a <hi>Patron</hi> of Blaſphemies; Heaven's his aim, and Truth's his way; his <hi>Redeemer</hi> is the great Maſter of it, and the Treaſure of it is open'd to him in his <hi>Divine Revelations:</hi> A <hi>Man very forward to relieve the Poor</hi> may be an open <hi>Calum<g ref="char:EOLhyphen"/>niator,</hi> credulous of every ſpiteful Reflection, doubt of his Brother's Reformation, when he's in a ſafer Courſe than himſelf, and prove a meer <hi>Ecebolius</hi> in his <hi>Religion</hi> when he's in Danger of being call'd to <hi>Martyrdom.</hi>
+            </p>
+            <p>We have ſeen then <hi>the Eſſentiating Characters of a truly good Chriſtian,</hi> if he have not <hi>this Grace of Cha<g ref="char:EOLhyphen"/>rity,</hi> he's <hi>nothing;</hi> He's no more capable of Heaven
+<pb n="7" facs="tcp:96413:7"/>or Happineſs, than an <hi>Adulterer</hi> or a <hi>Murderer.</hi> This <hi>Love or Charity</hi> cannot ſubſiſt where ſound <hi>Faith</hi> and well-grounded <hi>Hope</hi> are wanting. A Man may <hi>give all his Goods to Feed the Poor,</hi> and yet be without <hi>theſe;</hi> therefore a Man may give <hi>all his Goods to feed the Poor,</hi> he may have every place fill'd with the <hi>Memo<g ref="char:EOLhyphen"/>rials</hi> of his Beneficence, and yet for want of them be <hi>damn'd, eternally damn'd</hi> at laſt.</p>
+            <p>But <hi>Bounty to the Poor</hi> being an inſeparable <hi>Atten<g ref="char:EOLhyphen"/>dant</hi> on true <hi>Evangelical Charity;</hi> and there being a certain <hi>Bleſſing</hi> promis'd to him <hi>who provides for the Sick and Needy</hi> (if we Tranſlate that paſſage rightly) <hi>for the Lord will deliver him in the time of Trouble;</hi>
+               <note place="margin">Pſal. 41.1.</note> By what <hi>Marks</hi> ſhall we know when the <hi>liberal Giver</hi> wants <hi>this</hi> ſanctifying conſummating <hi>Charity?</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="I"/> Then, <hi>A Man gives all his Goods to ſupport the Poor without this Charity, when He does ſo, without any ſound Principles plainly and neceſſarily moving him to ſuch Liberality.</hi> A Man of a naturally <hi>buiſy and active temper,</hi> employing it in a good and plauſible, rather than in a deſtructive way to that Society in which he lives, acts prudently; for by that means he keeps himſelf out of harm's way; he gets <hi>Reputation</hi> among the <hi>Neighbourhood,</hi> and makes his Life eaſy and de<g ref="char:EOLhyphen"/>lightful; for every Man, even a <hi>profeſs'd Atheiſt,</hi> on ſuch Conſiderations, will be apt <hi>to do good to others;</hi> becauſe their <hi>Bleſſings</hi> are, at leaſt, <hi>ſafer</hi> than their <hi>Curſes.</hi> But the Reaſons of this Bounty may ceaſe; the natural Conſtitution may flag; Wealth and Great<g ref="char:EOLhyphen"/>neſs may make a Man ſcorn his former Fears, ſlight the Vulgar, and divert his Liberality. Again, A Man may have <hi>little particular Deſigns</hi> to carry on, <hi>Kindneſs to the Poor</hi> may advance them; but, when they'r ac<g ref="char:EOLhyphen"/>compliſh'd, nothing but <hi>Gratitude,</hi> a Virtue ſoon laid
+<pb n="8" facs="tcp:96413:8"/>by, can oblige him to continue it. Theſe then, and ſuch like, are <hi>inſufficient Principles,</hi> and won't make <hi>Almſgiving</hi> ſo much as the <hi>firſt Step</hi> to future Happi<g ref="char:EOLhyphen"/>neſs. Only <hi>true Faith,</hi> where it has poſſeſſion of the Soul, <hi>is the unfailing Principle of univerſal Goodneſs. Faith without Works is dead,</hi>
+               <note place="margin">Jam 2.17. Rom. c. 3. c. 4.</note> for it's but a pretended Faith. <hi>Works without Faith are uſeleſs,</hi> for all Mens <hi>Works</hi> are imperfect, and therefore in themſelves unacceptable;<note place="margin">If a Heathen Man cloathe he Naked, feed the Hun<g ref="char:EOLhyphen"/>ry, and do ſuch other like Works; yet becauſe he doth them not in Faith, for the Honour and Love of God, they are but dead, vain, and fruitleſs Works to him. Homil. 1. Of Good Works</note> 
+               <hi>Faith</hi> lays hold on a Saviour, who, having purchas'd <hi>Par<g ref="char:EOLhyphen"/>don</hi> for us by his own Immenſe Merits, gives it freely to our <hi>imperſect Works.</hi> St. <hi>Paul,</hi> and St. <hi>James</hi> are not at ſuch odds as ſome imagine in this Doctrine. St. <hi>Paul</hi>'s Controverſy was with thoſe who were great <hi>Boaſters of their own good Works;</hi> who, it may be, <hi>Phariſee</hi> like, <hi>gave Tyths of all which they poſſeſt,</hi> by which the <hi>Poor,</hi> as well as <hi>God's Miniſters,</hi> were plentifully provided for; and he lets them know, That it was only <hi>Faith</hi> which could <hi>juſtiſy</hi> both <hi>them</hi> and <hi>their Works,</hi> and Evidence that <hi>they</hi> proceeded from a Divine Spirit; and that neither the <hi>Jews,</hi> by their Ceremonial Rites, nor the <hi>Gentiles</hi> by their Mo<g ref="char:EOLhyphen"/>ral Virtues, could be <hi>justify'd;</hi> ſince <hi>Salvation</hi> could be attain'd only by <hi>Faith in that Jeſus,</hi> whom the <hi>Jews deny'd,</hi> and the <hi>Gentiles,</hi> till preach'd to, <hi>were ignorant of.</hi> Now <hi>Abraham</hi> believ'd in <hi>this Saviour,</hi> by Faith he <hi>ſaw his Day and rejoyced,</hi>
+               <note place="margin">John 8.56.</note> and therefore his <hi>Works,</hi> without regard to Circumciſion or Uncircumciſion were accepted. St <hi>James</hi>'s Diſpute is againſt <hi>thoſe who talk'd mightily of their Faith,</hi> and pretended much to <hi>Orthodoxy in that,</hi> but in the mean time liv'd in <hi>Sin,</hi> treſpaſs'd upon <hi>Laws,</hi> omitted <hi>Duties,</hi> and brought a <hi>Scandal</hi> upon their <hi>Profeſſion,</hi> i. e. They knew what
+<pb n="9" facs="tcp:96413:8"/>was propounded to the Church to be believ'd, but the ſubſtance of that <hi>Faith</hi> had made no Impreſſion on their hearts; from ſuch therefore, <hi>Works</hi> were more <hi>particu<g ref="char:EOLhyphen"/>larly</hi> requir'd <hi>to juſtifie that Faith</hi> which they pretended to, it being of the <hi>Eſſence of true Faith to be Operative;</hi> if they did not <hi>work,</hi> 'twas certain that neither did they <hi>believe. Abraham believ'd</hi> in the Meſſiah to come, and he believ'd in that God who had promis'd him; but had he not offer'd to <hi>Sacrifice his Son</hi> at God's un<g ref="char:EOLhyphen"/>doubted Command, he had by that <hi>Refuſal</hi> renounced his <hi>Faith;</hi> For how could he believe in God who would not obey him? <hi>i. e. How could Faith be true without Works?</hi> Thus <hi>Faith and Works,</hi> which are ac<g ref="char:EOLhyphen"/>ceptable to God indeed, are <hi>inſeparable one from another. Works coming from an unpurg'd mind are of no value;</hi> But <hi>the Apoſtles always teach us,</hi>
+               <note place="margin">Apoſtoli docent Fi<g ref="char:EOLhyphen"/>dem ap<g ref="char:EOLhyphen"/>tam eſſe ut nos pur<g ref="char:EOLhyphen"/>pet; pur<g ref="char:EOLhyphen"/>gatis d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i Spiritum ſinctum, &amp; ſic Pi<g ref="char:EOLhyphen"/>dem ſieri efficacem per Dilectionem, <hi>Gal.</hi> 5.6. ac proinde Dilectionem, quae ex Fide &amp; Spe eam comitante exurgat, plus valere &amp; Fide &amp; Spe. 1 <hi>Cor.</hi> 13.13. <hi>Grot. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſac.</hi> 2.14.</note> 
+               <hi>That Faith purges us, That the Spirit of God is given to ſuch as are purged, and ſo Faith is made effectual by Love, and there<g ref="char:EOLhyphen"/>fore,</hi> ſays he, <hi>Love which riſes from Faith and Hope together, is more valuable than Faith or Hope by them<g ref="char:EOLhyphen"/>ſelves are.</hi>
+            </p>
+            <p>Again, <hi>Eternal Life,</hi> ſays Grotius, <hi>is the End at which Faith aims,</hi>
+               <note place="margin">Effectus ad quem tendit Pi<g ref="char:EOLhyphen"/>des eſt vi<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aeterna, ſed ita de<g ref="char:EOLhyphen"/>mum Ef<g ref="char:EOLhyphen"/>fectum conſequitur, ſi adfit Purgatio à vitlis, Dilectio, &amp; Dilectionis opera. Idem in <hi>v.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.
+<p>Ego Fidem meam non jactitans, ſed perpetuam dans operam Modeſtiae, Patientiae, Dilectioni, f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cile cuivis perſuadebo, etiam tacens, eſſe in me veram Fidem; Nam per<g ref="char:EOLhyphen"/>petua illa Sanctitas, &amp; in malis Conſtantia qualis illo ſaeculo apparebat, cauſam aliam, quam veram Fidem, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>bere non poterat. Idem in <hi>v.</hi> 18.</p>
+               </note> 
+               <hi>and Faith obtains its end, when it's attended with Purity from Vice and Love, and the Effects of Love.</hi> Again, theſe words,—<hi>I will ſhew thee my Faith by my Works.</hi>—He illuſtrates thus,—<hi>I not boaſting of my Faith,
+<pb n="10" facs="tcp:96413:9"/>but always exerciſing my ſelf in Modeſty, Patience and Love, will eaſily convince others that I have true Faith, though I am ſilent; for that <g ref="char:V">Ʋ</g>niverſal Holineſs and Conſtancy in Sufferings which appear'd in the Apoſtolical Age, could have no other Original but true Faith:</hi> True <hi>ſound Faith</hi> then, in his Senſe, was <hi>the neceſſary Parent of acceptable good Works.</hi> And this is plain too, from the <hi>Parable</hi> of the <hi>Samaritan;</hi> A <hi>Lawyer</hi> askt our Sa<g ref="char:EOLhyphen"/>viour, <hi>What he ſhould do to inherit Eternal Life?</hi>
+               <note place="margin">Luk. 10.25, &amp;c</note> Our <hi>Saviour</hi> asks him again, <hi>What he read in the Law?</hi> He anſwers, <hi>Thou ſhalt love the Lord thy God with all thy heart, and with all thy ſoul, and with all thy ſtrength, and with all thy mind; and thy Neighbour as thy ſelf.</hi> The <hi>firſt</hi> was the Work of Faith, the <hi>ſecond</hi> of Love. Our <hi>Lord</hi> agrees with him immediately, <hi>Thou haſt anſwer'd right, this do and thou ſhalt live.</hi> Now here was no Queſtion about the <hi>Neceſſity</hi> of <hi>Faith,</hi> or the <hi>Object</hi> of it; The Lawyer askt not who is that God whom I ſhould love ſo? Nor is the Queſtion about the <hi>Ne<g ref="char:EOLhyphen"/>ceſſity</hi> of <hi>Love</hi> to others, that was agreed on too; but it was about the <hi>Object</hi> of that Love, <hi>And who is my Neighbour?</hi> To which Chriſt anſwers in the Parable, <hi>A Man went from Jeruſalem to Jericho; he's rob'd, wound<g ref="char:EOLhyphen"/>ed, and left in the way. A Prieſt and a Levite,</hi> whoſe Country, whoſe common Faith, whoſe Offices obliged them to compaſſion, <hi>paſs'd him by; but a Samaritan, no Heretick,</hi> but an <hi>Apoſtate,</hi> ſays <hi>Grotius,</hi> one of a Nati<g ref="char:EOLhyphen"/>on perpetually at feud with the <hi>Jews,</hi>
+               <note place="margin">Samaritas Judaei ut <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> capitaliori quam ul<g ref="char:EOLhyphen"/>lovalios odio, pro<g ref="char:EOLhyphen"/>ſequeban<g ref="char:EOLhyphen"/>tur, <hi>Grot.</hi> in <hi>L<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> c.</hi> 10.33. Non proponitur hoc ut Samaritanos cum Haereticis conferamus. <hi>L. Socinus, de H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ret puniendis. P.</hi> 24. <hi>S.</hi> 6.</note> 
+               <hi>ſees him, pities him, relieves him at preſent, and takes care of him for the future;</hi> and <hi>this man,</hi> the <hi>Lawyer</hi> confeſſes, <hi>was the wounded Man's Neighbour,</hi> becauſe he acted like <hi>one</hi> in<g ref="char:EOLhyphen"/>deed: The Inference is, <hi>Go and do thou likewiſe; i e.</hi> Lay aſide all Animoſities whatſoever when thou ſeeſt a pro<g ref="char:EOLhyphen"/>per
+<pb n="11" facs="tcp:96413:9"/>Object of Mercy, and ſhew Mercy whereſoever it's needful. But this ſetting the <hi>Samaritan</hi> before the <hi>Law<g ref="char:EOLhyphen"/>yer</hi> for an <hi>Example,</hi> in a <hi>Parable,</hi> no more proves that <hi>a Man of a falſe or no Faith may be ſav'd by his Works of Mercy,</hi> than that the <hi>Ox</hi> or <hi>Aſs,</hi> in the <hi>Prophet,</hi> or the <hi>Ant,</hi> in the <hi>Wiſeman,</hi> might be ſaved, becauſe the <hi>Sluggard</hi> and <hi>Rebel againſt God,</hi> are ſent to learn <hi>Indu<g ref="char:EOLhyphen"/>ſtry</hi> and <hi>Obedience</hi> from <hi>them.</hi> Nor does it prove <hi>doing Good to thoſe in want,</hi>
+               <note place="margin">Sermon on Mr. <hi>Firmin,</hi> p. 104. Act. c. 6.</note> 
+               <hi>to be of a more common and general Influence, and therefore more pleaſing to God, than a right Faith, or true knowledge,</hi> any more than, That the <hi>Se<g ref="char:EOLhyphen"/>ven</hi> appointed <hi>to ſerve Tables,</hi> in the beginnings of the Church, were on <hi>That Account,</hi> preferable to the <hi>Apo<g ref="char:EOLhyphen"/>ſtles,</hi> who were authoriz'd <hi>to teach or make Diſciples of all Nations.</hi> The <hi>Inference</hi> from <hi>the Parable is</hi> clear; If a <hi>profeſt Enemy</hi> could be ſo kind <hi>to his Enemy,</hi> what ſhould a <hi>Child of God do, who is no Man's Enemy?</hi>
+               <note place="margin">Chriſtia<g ref="char:EOLhyphen"/>nus nulli<g ref="char:EOLhyphen"/>us eſt Ho<g ref="char:EOLhyphen"/>ſtis. <hi>Tertul.</hi> ad <hi>Scap.</hi>
+               </note> how ſhould he not be aſham'd to be <hi>outdone</hi> in any work of <hi>Kindneſs</hi> or <hi>Benignity?</hi>
+            </p>
+            <p>But if this <hi>Bounty to the Poor be enough to ſave a Man whether his Faith be right or wrong,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Laer<g ref="char:EOLhyphen"/>tius lib. 8. S. 73.</note> 
+               <hi>Empedocles,</hi> who threw himſelf into <hi>Aetna,</hi> that he might be <hi>reputed a God,</hi> had a better right to that Honour, when <hi>out of his own E<g ref="char:EOLhyphen"/>ſtate,</hi> not from the Contributions of others, <hi>he gave Portions to promote the Marriages of many poor Maids at Agrigentum,</hi> as <hi>Laertius</hi> tells us, which was a very noble kind of Bounty.<note place="margin">V. Mena<g ref="char:EOLhyphen"/>gii Obſer<g ref="char:EOLhyphen"/>vationes in Laerti<g ref="char:EOLhyphen"/>um, p. 363.</note> And the <hi>Pytha<g ref="char:EOLhyphen"/>goreans,</hi> who <hi>had all things common,</hi> could not have miſt of it; particularly <hi>Clinias</hi> the <hi>Tarentine,</hi> who, <hi>when he heard that</hi> Prorus <hi>the</hi> Cyrenean <hi>had loſt his All in a publick Calamity, and was by that means reduc'd to Ex<g ref="char:EOLhyphen"/>tremity, went a long Voyage to find him out, tho wholly a
+<pb n="12" facs="tcp:96413:10"/>ſtranger, and made his Condition as good as ever, out of his own Moneys.</hi> But theſe were the better ſort of <hi>Heathens,</hi> and for ſuch <hi>ſome,</hi> it may be for their <hi>own ſakes,</hi> have a great deal of <hi>Charity.</hi> The <hi>Phariſees,</hi> however, if our Saviour miſtook them not, were very ill Men; yet <hi>Joſephus</hi> tells us, <hi>They were a very merci<g ref="char:EOLhyphen"/>ful Sect,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Joſeph. Ant. l. 13 c. 18. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Idem. c. 24.</note> on which reaſon King <hi>Alexander</hi> per<g ref="char:EOLhyphen"/>ſwaded his Wife to make uſe of them in State-matters after his own Deceaſe, which Counſel when ſhe follow'd, they made good the Cha<g ref="char:EOLhyphen"/>racter, for <hi>they made it their buſineſs to recall the Baniſh'd, and to ſet free the Priſoners.</hi> What ſhall we ſay of <hi>Judas?</hi> Had his <hi>Faith</hi> been ſound, certainly he would never <hi>have betray'd his Maſter;</hi> yet his <hi>Care for the Poor</hi> was very great; when the odorous Spikenard was ſpent on his Lord's Feet,<note place="margin">Joh. 12.5.</note> he zealouſly cry'd, <hi>Why was not this Ointment ſold for three hundred Pence, and given to the Poor?</hi> But the Reflection of St. <hi>John</hi> on his action is ſevere, and ſhews how wicked a wretch a pretence of caring for the Poor may cover. <hi>This he ſaid, not that he cared for the Poor, but becauſe he was a Thief and had the Bag,</hi>
+               <note place="margin">Joh. 12.6.</note> 
+               <hi>and bare what was put therein.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Juli<g ref="char:EOLhyphen"/>an. fragm. Epiſt. p. 530. Edit. Petavi<g ref="char:EOLhyphen"/>anae.</note>But never did any Man ſpeak higher or do greater things in this way of Bounty to the Poor than <hi>Julian the Apoſtate: A general care and tenderneſs for all Mankind is to be endea<g ref="char:EOLhyphen"/>vour'd after,</hi> ſays he, <hi>The Conſequences of it are many and happy, but none happier than this, That it makes us acceptable to the Gods; For the Di<g ref="char:EOLhyphen"/>vine Nature loving Mankind ſo much, muſt needs love them who endeavour to imitate their Good<g ref="char:EOLhyphen"/>neſs.</hi>
+               <pb n="13" facs="tcp:96413:10"/>Again, <hi>Who ever was impove<g ref="char:EOLhyphen"/>riſh'd by his Bounty to the Poor?</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Id. Ibid.</note> 
+               <hi>I have often reliev'd thoſe in want my ſelf, and I have receiv'd my own again from the Gods with mighty Intereſt;</hi> of which he ſubjoins a remarkable Inſtance.<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.—</note> Nay, <hi>Julian</hi> perſuades Men, not only to relieve the Good or Poor in gene<g ref="char:EOLhyphen"/>ral, but he adds further, That <hi>it ar<g ref="char:EOLhyphen"/>gues real Piety to feed and cloth our very Enemies, thoſe who are at Wars with us.</hi> Nay, <hi>Who,</hi> ſays he,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.—</note> 
+               <hi>can think he worſhips Hoſpitable Jove according to du<g ref="char:EOLhyphen"/>ty, who ſees the Needy, and wo'nt relieve them with one Farthing?</hi> The ſame <hi>Prince</hi> writing to <hi>Arſacius</hi> a <hi>Pagan Prieſt,</hi> owns that <hi>Chriſtianity flouriſh'd, becauſe Chriſtians were ſo good to ſtrangers, took ſuch care to bury the Dead,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>and made ſo fair a ſhow of Holineſs;</hi> and declares, <hi>He knew no way of conquering Chriſtia<g ref="char:EOLhyphen"/>nity, but by the Endeavours of his own Party to excell the Chriſtians in thoſe and other popular Virtues;</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and there<g ref="char:EOLhyphen"/>fore he tells <hi>Arſacius</hi> and his Brethren, that <hi>He had order'd them a vaſt Quan<g ref="char:EOLhyphen"/>tity of Corn and Wine at his own charge to enable them the better to relieve the Poor and Strangers.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Ibid. p. 533. 4. V. Epiſt. 49. ad Arſacium. p. 202.</note> Now if <hi>the</hi>
+               <note n="(a)" place="margin">Sermon on Mr. <hi>Firmin,</hi> p. 114.</note> 
+               <hi>Men of all Faiths ſhall receive ſentence on the foot of their Deeds of Charity or Beneficence, without any reſpect to their Opinions,</hi> as ſome would perſuade us, I know no reaſon why <hi>Empedocles</hi> or
+<pb n="14" facs="tcp:96413:11"/>
+               <hi>Clinias,</hi> why the Hypocritical <hi>Phariſees,</hi> the Traytor <hi>Judas,</hi> or the Apoſtate <hi>Julian</hi> ſhould not ſtand among the Sheep at the great Day; <hi>Julian,</hi>
+               <note n="(b)" place="margin">Mr. <hi>Fir<g ref="char:EOLhyphen"/>min</hi>'s Epi<g ref="char:EOLhyphen"/>taph, p. 89.</note> eſpecially, <hi>ha<g ref="char:EOLhyphen"/>ving been zealous in every good Work be<g ref="char:EOLhyphen"/>yond the Example of any in our Age, cannot reaſonably be reproach'd for that Faith which brought forth ſuch plenty of good Fruits.</hi>
+            </p>
+            <p>But the <hi>Sheep,</hi> at that great Day, ſhall be Sen<g ref="char:EOLhyphen"/>tenced only by their <hi>Works of Mercy,</hi> and the <hi>Goats</hi> by their neglect of them; True! for Men and An<g ref="char:EOLhyphen"/>gels, the whole rational World at leaſt, ſhall be <hi>Wit<g ref="char:EOLhyphen"/>neſſes</hi> of the <hi>Sentence,</hi> and underſtand the <hi>Reaſon</hi> of it. The <hi>Judge,</hi> who knows all things, knows their Hearts, and conſequently the <hi>Sincerity and Rectitude of their Faith,</hi> but theſe things are <hi>inviſible to the Mul<g ref="char:EOLhyphen"/>titude.</hi> But for their <hi>Works,</hi> they have ſeen, and known, and can judge of them, therefore their <hi>Works only</hi> are mention'd; and if <hi>they</hi> be truly good, <hi>their goodneſs juſtifies that Faith</hi> to the Witneſſes, not as <hi>indifferent,</hi> but as <hi>ſound and good,</hi> from which ſuch <hi>good Works</hi> could proceed; therefore <hi>Grotius</hi> obſerves well,<note place="margin">Inter varias virtutes eminet Miſericordia, ideò hane pro omnibus ponens Chriſtus, ex<g ref="char:EOLhyphen"/>emplis depingit maximè notis &amp; conſpicuis; Opera autem ipſa potius nominat quam Ani<g ref="char:EOLhyphen"/>mi affectum, ut Humani Judi<g ref="char:EOLhyphen"/>cii Figura magis exprimeretur. Grot. in Mat. 25. v. 35.</note> 
+               <hi>That Mercy is of all Virtues the moſt viſible, therefore Chriſt inſtances in that inſtead of all the reſt, and deciphers it by its faireſt Marks, and he names Works rather than Faith, or the Affections of the Mind, that the form of Human Tribunals</hi> (where all things paſs as matters are al<g ref="char:EOLhyphen"/>ledg'd and prov'd) <hi>might be the more exactly expreſt.</hi>
+               <note place="margin">Idem in v. 32.</note> And, if the ſame <hi>Grotius</hi>'s Notion of the <hi>Sheep and Goats</hi> be right, That <hi>they repreſent only ſincere and falſe Chriſtians,</hi> his Judgment is the plainer, That <hi>the
+<pb n="15" facs="tcp:96413:11"/>ſoundneſs</hi> or <hi>unſoundneſs of their Faith is that which moves the Judges breaſt; though the outward appear<g ref="char:EOLhyphen"/>ance or the Truth and reality of their Works be inſiſted on for the ſatisfaction of the Standers by.</hi> This is the true Import of that Parable, and none but <hi>Ill men</hi> will endeavour to <hi>Interpret Scripture ſo as to de<g ref="char:EOLhyphen"/>ſtroy it.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/>
+               <hi>A Man gives all his Goods to feed the Poor, and yet has no Love or Charity, when all his Beneficence ſprings from Vain-glory, or is levell'd at any mean or miſtaken end.</hi> That man had need to ſtand very well on his Guard againſt <hi>temptation,</hi> who can avoid this inſinuating Miſchief. <hi>Honour</hi> and <hi>Reputation</hi> are gaudy things, and Men are apt to have an Eye to them, even in thoſe matters wherein <hi>God's honour,</hi> and the acknowledgment of our Debt to him, ought to be the great <hi>Inducement</hi> to, and the ultimate <hi>End</hi> of all our Actions. But, in ſuch a Caſe, all my <hi>Liberality can profit me nothing;</hi> Nor can Millions of hearty <hi>Prayers</hi> ſent up by thoſe poor <hi>periſhing Creatures,</hi> whom I have reliev'd, carry me up <hi>one ſmall degree toward Heaven;</hi> unleſs they prevail with <hi>God</hi> to bring me to my ſelf, to give me the <hi>Grace of Self-denial</hi> and <hi>Hu<g ref="char:EOLhyphen"/>mility,</hi> that I may aſcribe all that good I'm an Inſtru<g ref="char:EOLhyphen"/>ment in, not to <hi>my ſelf,</hi> but <hi>to the Grace of God in me.</hi> Are not theſe the <hi>Hoſpitals</hi> which I have <hi>built?</hi> The <hi>Poor</hi> whom I have <hi>fed?</hi> The <hi>Naked</hi> whom I have <hi>cloath'd?</hi> The <hi>Priſoners</hi> whom I have <hi>diſcharg'd,</hi> out of my own or other Mens Eſtates, and to ſatisfy my own Compaſſionate Temper? are as dangerous Que<g ref="char:EOLhyphen"/>ſtions; as, <hi>Is not this great Babylon which I have built,</hi>
+               <note place="margin">Dan 4 30.</note> 
+               <hi>for the Houſe of my Kingdom, by the Might of my Power, and for the Honour of my Majeſty?</hi> In ſuch
+<pb n="16" facs="tcp:96413:12"/>Caſes a Man does what he does, not out of <hi>Grati<g ref="char:EOLhyphen"/>tude</hi> to <hi>God,</hi> or as a <hi>Faithful Steward</hi> of <hi>his</hi> Trea<g ref="char:EOLhyphen"/>ſures; not out of real <hi>tenderneſs</hi> for the <hi>Diſtreſs'd;</hi> or becauſe he can't bear their <hi>Wants</hi> while himſelf lives in <hi>Plenty;</hi> but he does it, to impoſe upon the unob<g ref="char:EOLhyphen"/>ſerving World, to be Talk'd of, to be Prais'd, and to have <hi>flattering Memorials and Monuments</hi> rais'd to him after Death, which may ſerve to encourage <hi>Atheiſm and Hypocriſy,</hi> and make the <hi>Friends of Libertiniſm</hi> believe, <hi>That it's no Matter what their Faith is, if they be but free Diſpoſers of their own, or Induſtrious Diſtributers of other Mens Bounty.</hi>
+            </p>
+            <p>Men of this Humour are eaſily known; They'l not wait modeſtly for the Commendations of <hi>others,</hi> but every where, and on every occaſion proclaim their <hi>own</hi> Good Deeds. None need to take care to ſpread their Glories, and few of their commendable Actions ſhall be <hi>done in a Corner.</hi> This was the <hi>Phariſaic</hi> way, they did all their Good Works to be ſeen of Men, and with reſpect to that Way our Saviour gives that admirable Caution,<note place="margin">Mat. 6.1, 2.</note> 
+               <hi>Take heed that ye do not your Alms before Men to be ſeen of them, otherwiſe ye have no Re<g ref="char:EOLhyphen"/>ward of your Father which is in Heaven. Therefore, when thou doſt thine Alms, do not ſound a Trumpet be<g ref="char:EOLhyphen"/>fore thee, as the Hypocrites do, in the Synagogues, and in the Streets, that they may have Glory of Men:</hi>
+               <note place="margin">Docet hic Chriſtus exemplo Beneficentiae, non poſſe Deo probari, quae ideò fiant, ut aut Laus captetur aut Gratia. <hi>Grot.</hi> in loc.</note> Here, ſays <hi>Grotius, Chriſt inſtancing in Almsgiving, de<g ref="char:EOLhyphen"/>clares, That God cannot approve thoſe things which are done to curry Favour or to purchaſe Praiſe.</hi> Not but that <hi>Publick Occaſions</hi> will require <hi>Publick Liberality,</hi> and, according to a Man's Station, a good <hi>Example</hi> may be of excellent uſe;
+<pb n="17" facs="tcp:96413:12"/>but even in ſuch caſes a wiſe or humble man, will ra<g ref="char:EOLhyphen"/>ther give others leiſure to applaud his Bounty, than begin the Work himſelf. <hi>Philo,</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Philo de Cherub. p. 128. E.</note> of old, had a juſt Notion of this way. <hi>If,</hi> ſays he, <hi>you examine all things ſtrictly, you'll ſee that Men cry'd up for their Liberality, rather ſell than beſtow their Bounties; and thoſe, whom we think Alms-Men, are really Pur<g ref="char:EOLhyphen"/>chaſers of what they get; for when thoſe who pretend to give, hunt on the other hand for Honour and Fame, expecting a Reward for their Bounty, they ſham us with a gaudy name, and really ſtrike a Bargain; for none but Sellers take a Price for what they part with;</hi>
+               <note place="margin">Aben. Ezra apud Gro<g ref="char:EOLhyphen"/>tium in <hi>Matt.</hi> 6.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> and <hi>R. Aben Ezra</hi> gives this for a Rule, <hi>If any Man gives Alms to the Poor, let him not do it to get Honour, or that he may boaſt of it to</hi> others; <hi>for he who does ſo ſhows, That he va<g ref="char:EOLhyphen"/>lues the Praiſe of Men more than the favour of God.</hi> Indeed our <hi>Saviour</hi> aſſures us, that even <hi>ſuch Men have their reward;</hi> but it's only what they aim at, empty Breath and fleeting Air; while the modeſt <hi>Chri<g ref="char:EOLhyphen"/>ſtian, ſound in Faith,</hi> and <hi>acting</hi> upon <hi>that Principle, obtains the End of his Hope, the Salvation of his Im<g ref="char:EOLhyphen"/>mortal Soul.</hi>
+            </p>
+            <p>Above all then; he miſtakes who thinks <hi>Almſgiving</hi> is <hi>that Charity which ſhall cover a multitude of Sins.</hi> He, who has <hi>that Charity,</hi> will, according as God has bleſt him, give <hi>Alms;</hi> but the <hi>Cauſe</hi> and the <hi>Effects</hi> of that Cauſe are very different things. <hi>Alms</hi> are fre<g ref="char:EOLhyphen"/>quently enjoyn'd, and <hi>he who ſeeth his Brother have,</hi>
+               <note place="margin">Joh. 3.1.7.</note>
+               <pb n="18" facs="tcp:96413:13"/>
+               <hi>need,</hi>
+               <note place="margin">You ſhall find many who have not the Fruit of true Faith; who are not of the Flock of Chriſt; and yet, as it ap<g ref="char:EOLhyphen"/>pears, they flouriſh in good Works of Mercy; you ſhall find them full of Pity, Com<g ref="char:EOLhyphen"/>paſſion, and given to Juſtice, and yet for all that they have no Fruit of their Works, be<g ref="char:EOLhyphen"/>cauſe the chief Work lacketh. Hom. 1. Of Good Works.</note> 
+               <hi>and ſhutteth up his bowels of com<g ref="char:EOLhyphen"/>paſſion from Him, how dwells the love of God in him?</hi> is a ſevere Queſtion, but infers what we have been aſſerting all this while, That <hi>Bounty to the Poor unleſs it proceeds from Faith and Love</hi> (for they are inſeparable) <hi>can do the Giver no ſervice,</hi> whatever advantage the <hi>Receiver</hi> may have by it. The <hi>Reward of Mercy</hi> is great, if it riſe from a ſound and ſincere <hi>Faith,</hi> or at leaſt from a <hi>ductile Mind</hi> willing to be in<g ref="char:EOLhyphen"/>ſtructed,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Conſtit. l. 8. c. 13.</note> and to embrace it with all humility and readineſs. Thus in <hi>Cle<g ref="char:EOLhyphen"/>ment</hi>'s <hi>Conſtitutions,</hi> we have that advice, <hi>If you have wherewith, give Alms with your own hands for the Expi<g ref="char:EOLhyphen"/>ation of your ſins, for by Alms and Faith ſins are taken away;</hi> Thus <hi>they</hi> go hand in hand, and <hi>theſe things which God has joyn'd together no Man ought to put aſunder.</hi>
+            </p>
+            <p>
+               <hi>A Man may give all his Goods to feed the Poor with<g ref="char:EOLhyphen"/>out Charity;</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <hi>if he does ſo, to ſupport and bring Re<g ref="char:EOLhyphen"/>putation to Hereſy, and ſo to propagate Diſorders and Confuſions in the Church of Chriſt;</hi> As if only <hi>ſuch a Faith</hi> as the <hi>Giver owns</hi> could be the <hi>Parent</hi> of <hi>ſuch Works.</hi> We have obſerv'd already how <hi>Julian,</hi> by this means, hop'd to have undermined <hi>Chriſtianity,</hi> and reſtor'd <hi>Paganiſm;</hi>
+               <note place="margin">Marianae Rerum Hiſp. l. 4. c. 14.</note> and 'twas thus <hi>Lucilla</hi> made uſe of her great Wealth and Intereſts to encourage the <hi>Donatiſts.</hi> And indeed it's but reaſonable, that thoſe who <hi>call themſelves Chriſtians,</hi> and <hi>are none,</hi> but have a deſign to break the <hi>
+                  <g ref="char:V">Ʋ</g>nity of the Church of Chriſt,</hi> ſhould have, or at leaſt put on ſome very <hi>Popular
+<pb n="19" facs="tcp:96413:13"/>qualities,</hi> whereby to render their <hi>Heretical deſigns</hi> the leſs ſuſpected. For if I have once entertaind a great Opinion of a <hi>Man</hi> and his <hi>Converſation,</hi> I ſhall be ve<g ref="char:EOLhyphen"/>ry unwilling to believe he intends ill, or that <hi>his Opinions</hi> can be <hi>damning,</hi> whoſe <hi>Perſon</hi> is ſo <hi>acceptable.</hi> But when we talk of <hi>Hereſy</hi> and <hi>Hereticks,</hi> we are at a loſs. The <hi>Apoſtles,</hi> ſure by ſome miſtake, fore<g ref="char:EOLhyphen"/>warn Chriſtians often of <hi>Sacrilege, Schiſm, and Hereſy,</hi> as very great Sins; The two former, ſome, who are touch'd too near, have endeavour'd to loſe in a Miſt, and would make us believe there are none guilty of ſuch ſins now a-days; And for the <hi>laſt,</hi> others, who cry up one another for mighty <hi>Criticks,</hi> reject the <hi>common Notion</hi> which the World has hitherto had of <hi>Hereſy</hi> and it's <hi>Friends.</hi> They tell us; <hi>it's not the Falſhood of any Opinion that makes it to be a He<g ref="char:EOLhyphen"/>reſy, and the Perſon that holds it to be a Heretick,</hi>
+               <note place="margin">Sermon on Mr. <hi>Firmin,</hi> p. 110.</note> 
+               <hi>but it's the Clamour and Buſtle made about it, which makes both the firſt and the laſt.</hi> If then, according to <hi>their ſenſe,</hi> a <hi>Priſcillianiſt</hi> ſit ſtill, or only ſlily and ſilently endeavours to ſeduce Souls, and a <hi>zealous good Chriſtian</hi> ſtands up vigorouſly in Defence of <hi>Truth,</hi> the <hi>Chriſtian's</hi> a <hi>Heretick,</hi> and <hi>Chriſtianity Hereſy,</hi> and the <hi>Priſcillianiſt,</hi> for all his helliſh Opinions, a very <hi>Inno<g ref="char:EOLhyphen"/>cent Perſon,</hi> and by no means to be rejected. But if their <hi>Aſſertion</hi> be true, according to <hi>common Senſe,</hi> thoſe who advance it are the <hi>greateſt Hereticks of our Age;</hi> for they joyn both <hi>falſe Doctrines,</hi> and an <hi>ex<g ref="char:EOLhyphen"/>traordinary Buſtle</hi> and <hi>dangerous Warmth</hi> together.<note place="margin">Errare poſſum, Haereticus eſſe nolo. Haereſes ſunt Pla<g ref="char:EOLhyphen"/>cit<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> veh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mentius defenſa.</note> It may be they'l take ſhelter under St. <hi>Auſtin</hi>'s, <hi>I may be in an Error, but I will be no Heretick,</hi> who means he would not be Obſtinate, for <hi>Obſtinacy,</hi> not an <hi>involuntary Miſtake,</hi> makes the <hi>Heretick;</hi> But this will not help them. Their own <hi>Critick</hi> calls <hi>Opini<g ref="char:EOLhyphen"/>ons
+<pb n="20" facs="tcp:96413:14"/>too eagerly defended, Hereſies;</hi> here again, ſince none ever more ſcurrilouſly, impudently, or furiouſly defended their diſtinguiſhing Opinions than <hi>theſe Men,</hi> by their own acknowledgment they <hi>are notorious He<g ref="char:EOLhyphen"/>reticks.</hi> Nor will their abſurd pretended <hi>Syncretiſm with the Church of England,</hi> as a ſound part of the Catholick Church, (a ſham offer'd only to impoſe on Children) clear them of the Title.</p>
+            <p>
+               <hi>Hereſy</hi> indeed is a Word of an <hi>indifferent Significa<g ref="char:EOLhyphen"/>tion</hi> in many Ancient Authors; but, though both <hi>Grotius</hi> and <hi>Ravanellus</hi> think otherwiſe, it's no where ſo in the <hi>New Teſtament.</hi> The <hi>Hereſy or Sect of the Sadducees,</hi>
+               <note place="margin">Acts 5.17. Acts 15.5. Acts 4.</note> in St. <hi>Luke,</hi> is a <hi>Brand</hi> on them, and ſo it was on the <hi>Phariſees,</hi> when St. <hi>Paul</hi> and <hi>Barnabas</hi> us'd it. <hi>Tertullus</hi> calls Chriſtians, <hi>the Sect or Hereſy of the Nazarenes,</hi> by way of <hi>Reproach;</hi> and St. <hi>Paul</hi> under<g ref="char:EOLhyphen"/>ſtood the <hi>Jews</hi> meaning well enough, when <hi>they call'd that way Hereſy in which he worſhipp'd the God of his Fathers;</hi>
+               <note place="margin">v. 14.</note> Nor was <hi>their ſenſe</hi> queſtionable who tell him,<note place="margin">Acts 28.16. Acts 26.5.</note> that <hi>as for that Hereſy,</hi> which he preach'd, <hi>they knew that it was every where ſpoken againſt:</hi> and even where the ſame <hi>Apoſtle</hi> calls <hi>Phariſaiſm,</hi> the <hi>ſtricteſt Hereſy</hi> of the <hi>Jewiſh</hi> Nation, he declares againſt it. All other Texts, where <hi>Hereſy</hi> or <hi>Hereticks</hi> are men<g ref="char:EOLhyphen"/>tion'd have ſuch Characters or Epithets annext, as render their meaning indiſputable. In <hi>Scripture</hi> then it's us'd always in an <hi>ill ſenſe,</hi> and, in it, the <hi>Hereſy</hi> and <hi>Heretick</hi> are both condemn'd. But when St. <hi>Peter</hi> forewarns us,<note place="margin">2 Pet. 2.1.</note> 
+               <hi>That there ſhould be falſe Teachers among</hi> Chriſtians, <hi>who ſhould privily bring in damnable He<g ref="char:EOLhyphen"/>reſies.</hi> i. e. ſhould ſpread Helliſh Opinions, but as far as poſſible conceal the Names of their Authors, he inſtances in <hi>One</hi> contrary to that <hi>Faith</hi> which himſelf
+<pb n="21" facs="tcp:96413:14"/>and the reſt of the Apoſtles taught. <hi>They</hi> taught <hi>that God had redeemed his Flock with his own Blood; Theſe</hi> would <hi>deny the Lord who bought them;</hi> and make him not <hi>God</hi> but a <hi>Creature,</hi> and conſequently <hi>uncapable of Redeeming them.</hi> Such as theſe <hi>were Hereticks</hi> in the <hi>Apoſtles days,</hi> and afterwards; and ſuch <hi>are Hereticks,</hi> and their <hi>Opinions damnable Hereſies in ours;</hi> and God knows, <hi>there are</hi> too <hi>many who follow their pernicious ways, by reaſon of whom the way of Truth is evil ſpoken</hi> of. From all this we learn that <hi>Hereſie,</hi> in a Scripture and Eccleſiaſtical ſenſe, is not <hi>Factiouſneſs Civil,</hi> but <hi>an oppoſition made to the Church and her Doctrines drawn from the Word of God, and ge<g ref="char:EOLhyphen"/>nerally received from the Beginning,</hi>
+               <note place="margin">See a Ser<g ref="char:EOLhyphen"/>mon of the Neceſ<g ref="char:EOLhyphen"/>ſity of Hereſies Printed 1688. Hae<g ref="char:EOLhyphen"/>reſis eſt quiddam Spirituale L. Socinus de Haeret. puniendis. <hi>p.</hi> 106. Vide Lucii Lexicon Novi Teſtam. in verbo <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Haereticos ſta<g ref="char:EOLhyphen"/>tuimus omnes quicunque communis noſtrae Fidei decretum aliquod ſecus accipiunt, quam ſacrâ Scripturâ determinatum eſt, &amp; in errore ſic habitant ut omnino ſe non ſinant ab illo removeri. Nec illud in hoc genere ſpectandum eſt, utrum aliquis ipſe ſibi Er<g ref="char:EOLhyphen"/>roris fuerit Author, an illum aliunde acceptum ipſe ſequatur &amp; defendat. Reformatio legum Eccleſiaſt. Sect. 2. c. 1.</note> 
+               <hi>under pretence of their falſhood and deficiency, and out of Oſtentation of a purer and more perfect knowledge;</hi> and an <hi>Heretick</hi> is <hi>one, who chuſes, embraces, cheriſhes and obſtinately defends Opinions contrary to true and ſound Doctrine.</hi> If this Account be right, we cannot be far to ſeek, to whom both the <hi>Title</hi> and the <hi>Opinions</hi> belong; and <hi>ſuch,</hi> even <hi>they</hi> themſelves confeſs, are to be rejected.<note place="margin">Haereticus eſt qui Ambitione ductus, vel alicujus temporalis commodi gratiâ, ſub Religionis praetextu falſas ac novas Opiniones, vel gignit vel ſequitur, &amp; ſectantium tur<g ref="char:EOLhyphen"/>mas parat. Ex Auguſtino, citata haec a L. Socino. Hic vero, aſſerente eodem Socino, eſt Factioſus Haereticus.</note> 
+               <note place="margin">Haeretici ſimpliciter, ſeditiones volentes non excitant, ſed pacatè ac placide, diſſen<g ref="char:EOLhyphen"/>tientes, nemini vim inferunt, ſententiam ſuam defendunt ac docent, rectúmque eſſe autumantes, etiam mordicus retinent, adeo ut, à Diabolo decepti igne quoque cre<g ref="char:EOLhyphen"/>mari conſtantiſſimè perferant. L. Socinus, de Haeret, puniend. p. 87.6. Ergo ſimplex Haereſis, conſentiente ipſo Socino Haereticiſſimo, in falſitate opinionum earumque <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>criori defenſione conſiſtit.</note>
+            </p>
+            <p>
+               <pb n="22" facs="tcp:96413:15"/>
+Well, <hi>but him who is weak in the Faith we are to re<g ref="char:EOLhyphen"/>ceive,</hi> therefore certainly <hi>not to reject.</hi> But if thoſe whom we have to do with are <hi>weak,</hi> and will own it, whom ſhall we call <hi>ſtrong?</hi> The <hi>Fathers of our Church,</hi> who are moſt admir'd for Piety or Learning: The <hi>inferior Preſ<g ref="char:EOLhyphen"/>byters,</hi> who have labour'd hardeſt in the Word and Doctrine, are all but <hi>Children,</hi> meer <hi>Pigmies</hi> in the hands of <hi>theſe Defyers of the Armies of the living God:</hi> They are treated with all that ſcorn and contempt, which <hi>Opinionative Critics,</hi> for they'r all ſuch, can throw upon them. They'r confuted with nauſeous <hi>Repetitions of bafled Arguments,</hi> and abundance of ſcur<g ref="char:EOLhyphen"/>rilous Humour, and Papaniſh <hi>Buffoonery.</hi> Yet <hi>God will accept of them,</hi> they ſay. But we think, that if they keep <hi>now</hi> no better than <hi>themſelves</hi> and <hi>their own Writers,</hi> we need not wiſh, that an angry <hi>Judge,</hi> after <hi>Death,</hi> would <hi>condemn them to worſe Company. Bene<g ref="char:EOLhyphen"/>ficence</hi> deſign'd to promote ſuch <hi>Hereſies,</hi> and to make ſuch <hi>Men</hi> better thought of, cannot be accompani'd with that <hi>Charity</hi> which our Text recommends.</p>
+            <p>For <hi>that Charity</hi> always tries to <hi>heal,</hi> not to <hi>tear</hi> open the <hi>Churches Wounds:</hi> It neither <hi>invents</hi> nor <hi>fa<g ref="char:EOLhyphen"/>vours New Opinions in Religion,</hi> but labours to <hi>preſerve the <g ref="char:V">Ʋ</g>nity of the Spirit in the Bond of Peace, and in Righteouſneſs of Life.</hi> That Heavenly <hi>Charity</hi> looks above the Flatteries of vain and fooliſh Men; owns the <hi>inſufficiency of the beſt humane Works;</hi> and knows it can never diſcharge that vaſt <hi>Debt</hi> it owes to Di<g ref="char:EOLhyphen"/>vine Goodneſs, by the moſt profuſe <hi>Bounty to the Neceſſities of Men.</hi> The <hi>Son of this Love,</hi> values one <hi>ſpark of ſuch Charity</hi> more than a thouſand <hi>ſenſeleſs Criticiſms,</hi> which ſerve only to derogate from the <hi>Truth and Wiſdom of his Maker.</hi> He believes in <hi>God the Father, God the Son,</hi> and <hi>God the Holy Ghoſt,</hi> ac<g ref="char:EOLhyphen"/>cording
+<pb n="23" facs="tcp:96413:15"/>to thoſe <hi>Revelations</hi> they have made of them<g ref="char:EOLhyphen"/>ſelves in <hi>Scripture;</hi> and would rather believe the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> and <hi>Apoſtles</hi> honeſt Men than quibbling Sophi<g ref="char:EOLhyphen"/>ſters. His pure unſpotted Love, <hi>with reſpect to God,</hi> muſt always believe in him, depend on, admire and adore him; and when he remembers his own diſtance from God by Sin, and God's Condeſcention to pur<g ref="char:EOLhyphen"/>chaſe Pardon and Grace for him by his own moſt precious Blood, though in that ſtate of Enmity, That <hi>Faith</hi> which he has <hi>in him,</hi> that <hi>Love</hi> which he has <hi>to him,</hi> muſt make him always tender, compaſſionate and mer<g ref="char:EOLhyphen"/>ciful <hi>with reſpect to Men.</hi> We need to run to no falſe Opinions to excite us to Beneficence, Wiſe Men wont pretend <hi>to gather Grapes of Thorns, or Figs of Thiſtles; This is a faithful ſaying, and theſe things we</hi> of the Church of England <hi>affirm conſtantly, That thoſe who have believ'd in God might be careful to maintain good Works; theſe things are good and profitable to Men.</hi>
+            </p>
+            <p>We would then have the <hi>Poor provided for,</hi> we would encourage a <hi>juſt care</hi> for them; we pretend in vain to be <hi>Christians</hi> if we forget our <hi>poor Brethren;</hi> for we were <hi>poorer</hi> by far, when our merciful Savi<g ref="char:EOLhyphen"/>our made himſelf <hi>poor</hi> on our Accounts, and extend<g ref="char:EOLhyphen"/>ed his Compaſſion toward us. If any one will <hi>give all his Goods to feed the Poor,</hi> provided he wrongs none elſe by that Liberality, and the <hi>Love of God conſtrains him,</hi> may his Heavenly Father, who ſees in ſecret, reward him openly! He who <hi>gives to the Poor</hi> ſhould give without <hi>Conſtraint,</hi> without <hi>Grudging,</hi> and with <hi>Pleaſure,</hi> for <hi>God loves a cheerful Giver.</hi> He ought to give <hi>proportionably</hi> to what God has bleſt him with; He who voluntarily devotes the <hi>Tenths of
+<pb n="24" facs="tcp:96413:16"/>all he has</hi> to the ſupport of the <hi>Poor,</hi> does no more, and none ever ſuffer'd yet by <hi>a Bounty ſo proportion'd.</hi> What he gives ought to be <hi>his own, i. e.</hi> not gotten by Addreſs and Craft, or by Violence; for he who <hi>wrongs one</hi> to <hi>feed or cloath another,</hi> gives <hi>Nothing,</hi> and by <hi>ſuch Sacrifices,</hi> never <hi>pleaſes</hi> but <hi>offends his Maker.</hi> But if the <hi>Rich in this world be ſound in the Faith, if they do good, if they be Rich in Good Works, ready to diſtribute, willing to Communicate, they lay up in store for themſelves a good foundation, that they may lay hold on eternal Life.</hi> Here's <hi>Love!</hi> here's <hi>Charity</hi> indeed! enough to ſanctifie their <hi>Alms,</hi> and to make the Prayers of the Poor a Treaſure of Eternal Bleſſings to them.</p>
+            <p>But ſince the <hi>Rich</hi> and <hi>Willing</hi> cannot perhaps tell readily where to beſtow their Bounty without the Hands and Eyes of others,<note place="margin">V. Vitrin<g ref="char:EOLhyphen"/>gam de Nomini<g ref="char:EOLhyphen"/>bus Mini<g ref="char:EOLhyphen"/>ſtrorum Eccleſiae &amp; Syna<g ref="char:EOLhyphen"/>gogae. c.5.</note> ſurely we cannot in our <hi>own Church,</hi> among <hi>Chriſtians,</hi> want ſome <hi>Man</hi> or <hi>Men of Honeſt report, full of the Holy Ghoſt and Wiſdom,</hi> (who therefore will neither <hi>deny his Being,</hi> nor <hi>reduce</hi> him to the meanneſs of a <hi>Creature,</hi> nor divert the <hi>trea<g ref="char:EOLhyphen"/>ſures of the Poor,</hi> to encourage ſuch as by their <hi>Writings</hi> and <hi>Diſcourſes</hi> do <hi>both) who may be appointed over this Buſineſs. Ill Men</hi> are commonly of the moſt active and ſtirring Tempers, <hi>they</hi> know the leaſt neglect ruins their Affairs; <hi>Good Men</hi> ſuppoſe their Cauſe will manage and ſecure it ſelf; but though it will do ſo, their Induſtry is not a whit the leſs requir'd; and while the activity of <hi>Ill Men</hi> deſtroys <hi>them,</hi> we have an infallible Aſſurance, That <hi>it's good to be zealouſly affected always in a good Cauſe.</hi> Men <hi>ſound in the Faith,</hi> would not only be <hi>Faithful Stewards</hi> with regard to the <hi>Bodies</hi> of thoſe in Want, but they'd
+<pb n="25" facs="tcp:96413:16"/>be <hi>Pious Guardians</hi> of their <hi>Souls</hi> too; They'd in<g ref="char:EOLhyphen"/>ſtil the <hi>Principles of ſound Religion</hi> into them, as well as relieve <hi>their outward Neceſſities;</hi> and a <hi>Love to Mens Bodies</hi> muſt certainly yield to a <hi>tenderneſs for their Souls.</hi> A <hi>Lazarus,</hi> full of ſores and ſtarving, <hi>may be carry'd by Angels into</hi> Abraham<hi>'s Boſom; but without Faith its impoſſible to pleaſe God;</hi> and <hi>by Grace,</hi> both Poor and Rich <hi>muſt be ſav'd,</hi> and <hi>that not of themſelves, it is the gift of God.</hi>
+               <note place="margin">Eph. 2.8. 1 Theſ. 1.3.</note> The <hi>Work of Faith,</hi> the <hi>Labour of Love,</hi> and the <hi>Patience of Hope,</hi> will always be favourably <hi>remembred</hi> both by God and Men. I'll never <hi>confide</hi> in that <hi>Man,</hi> who will not <hi>believe his God,</hi> and muſt ſuſpect <hi>Him</hi> to be full of <hi>Trick</hi> and <hi>Deſign,</hi> who repreſents <hi>his Maker</hi> as guily of <hi>Artifice and Chicanery</hi> in his <hi>Re<g ref="char:EOLhyphen"/>velations</hi> of himſelf to the <hi>Children of Men.</hi> But he who is <hi>right and ſincere</hi> in his Faith toward <hi>God,</hi> I'm ſure will be <hi>truſty to his Neighbour.</hi> He'll be kind to both the Bodies and Souls of the Pooreſt. He'll <hi>viſit the Fatherleſs and Widows in their Afflicti<g ref="char:EOLhyphen"/>ons, and keep himſelf unſpotted from the World.</hi> By ſuch a Hand I'll <hi>give</hi> what I can <hi>to feed the Poor,</hi> I'll <hi>live by Faith,</hi> I'll <hi>wait in Hope,</hi> and <hi>act with Charity,</hi> and never fear loſing my <hi>Everlaſting Re<g ref="char:EOLhyphen"/>ward.</hi>
+            </p>
+            <p>
+               <note place="margin">Collect on Quinqua<g ref="char:EOLhyphen"/>ges.</note> 
+               <hi>O God who haſt taught us that all our Doings without Charity are nothing worth; ſend thy Holy Ghoſt, and pour into our Hearts that moſt excellent Gift of Chari<g ref="char:EOLhyphen"/>ty, the very bond of Peace and of all</hi> Virtues, <hi>with<g ref="char:EOLhyphen"/>out which whoſoever liveth is counted dead before Thee. Grant this for thine only Son Jeſus Chriſt's ſake.</hi> Amen.</p>
+            <p>
+               <pb n="26" facs="tcp:96413:17"/>
+               <hi>Now to God the Father, God the Son, and God the Holy Ghoſt, Three Perſons, but One Infinite and Eternal God, be given, as is moſt due, all Honour, Glory, Praiſe, Power, Might, Majeſty and Domini<g ref="char:EOLhyphen"/>on, now, henceforth and for evermore.</hi> Amen <hi>and</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96413:17"/>
+            <p>MYſteries in Religion Vindicated: Or the Filiati<g ref="char:EOLhyphen"/>on, Deity, and Satisfaction of our Saviour Aſſerted, againſt <hi>Socinians</hi> and others. With Occaſional Reflections on ſeveral late Pamphlets. By <hi>Luke Milbourne,</hi> a Presbyter of the Church of <hi>England.</hi>
+            </p>
+            <p>The Doctrine of the Glorious Trinity not Explained but Aſſerted by ſeveral Texts as they are Expounded by the Ancient Fathers and Later Divines, for the Sa<g ref="char:EOLhyphen"/>tisfaction of ſuch as doubt, the Conviction of ſuch as deny, the Confirmation of ſuch as believe this Myſte<g ref="char:EOLhyphen"/>rious Article of the Chriſtian Faith. By <hi>Francis Gregory</hi> D. D. and Rector of <hi>Hambleden</hi> in the County of <hi>Bucks.</hi>
+            </p>
+            <p>An Anſwer to an Heretical Book called, <hi>The Naked Goſpel,</hi> which was Condemned and ordered to be Publickly Burnt by the Convocation of the Univerſity of <hi>Oxford,</hi> Aug. 19. 1690. With ſome Reflections on Dr. <hi>Bury</hi>'s New Edition of that Book. To which is added, <hi>A Short Hiſtory of Socinianiſm.</hi> By <hi>William Nichols,</hi> M. A. Fellow of <hi>Merton</hi> College in <hi>Oxford,</hi> and Chaplain to the Right Honourable <hi>Ralph</hi> Earl of <hi>Montague.</hi>
+            </p>
+            <p>
+               <hi>All Three Printed for</hi> Walter Kettilby <hi>at the</hi> Biſhop<hi>'s.</hi> Head <hi>in St.</hi> Paul<hi>'s Chuch-Yard.</hi>
+            </p>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:96413:18"/>
+            <head>BOOKS <hi>Printed for</hi> Brab. Aylmer <hi>at the</hi> Three Pigeons <hi>in</hi> Cornhil.</head>
+            <p>SERMONS concerning the Divinity and Incarna<g ref="char:EOLhyphen"/>tion of our Bleſſed Saviour, Preached in the Church of Sr. <hi>Lawrence Jewry.</hi> By <hi>John</hi> late Lord Archbiſhop of <hi>Canterbury.</hi> 8<hi>vo.</hi>
+            </p>
+            <p>Certain Propoſitions, by which the Doctrine of the Holy Trinity, is ſo explain'd, according to the ancient Fathers, as to ſpeak it not Contradictory to Natural Reaſon, together with a Defence of them; in anſwer to the Objections of a <hi>Socinian</hi> Writer, in his newly Printed Conſideration on the Explications of the Doctrine of the Trinity. Occaſioned by theſe Propoſitions among other Diſcourſes, <hi>4to.</hi> Price 6 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Second Defence of the Propoſitions, by which the Doctrine of the Holy Trinity is ſo explained, according to the Ancient Fathers, as to ſpeak it not Contradictory to Natural Reaſon; In Anſwer to a <hi>Socinian</hi> Manuſcript, in a Letter to a Friend. Together with a third Defence of thoſe Propoſitions, in Anſwer to the newly Publiſhed Reflections contained in a Pamphlet, Entituled, <hi>A Let<g ref="char:EOLhyphen"/>ter to the Reverend Clergy of Both <g ref="char:V">Ʋ</g>niverſities.</hi> in <hi>4to.</hi> Price 1 <abbr>
+                  <hi>s.</hi>
+               </abbr> Both by the Right Reverend Father in God, <hi>Edward</hi> Lord Biſhop of <hi>Glouceſter.</hi>
+            </p>
+            <p>A Defence of the Bleſſed Trinity. By <hi>Iſaac Barrow,</hi> D. D. late Maſter of <hi>Trinity</hi> College in <hi>Cambridge.</hi> Ne<g ref="char:EOLhyphen"/>ver before Printed in <hi>8vo.</hi> Price 12 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+            <p>A Seaſonable Vindication of the Bleſſed Trinity. Be<g ref="char:EOLhyphen"/>ing an Anſwer to this Queſtion, <hi>Why do you believe the Doctrine of the Trinity?</hi> Collected from the Works of the moſt Reverend Dr. <hi>John Tillotſon,</hi> late Lord Arch<g ref="char:EOLhyphen"/>biſhop of <hi>Canterbury,</hi> and the Right Reverend Dr. <hi>Ed<g ref="char:EOLhyphen"/>ward Stillingfleet,</hi> now Lord Biſhop of <hi>Worceſter.</hi> In <hi>8vo.</hi> Price 12 <abbr>
+                  <hi>d.</hi>
+               </abbr>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
